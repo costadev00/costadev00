@@ -18,7 +18,7 @@
 <br><p align="center">Everything here is Open Source!<br><br>
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/costadeveloper/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/Uf2kRiEk)
-[![Medium]()](https://medium.com/@costa.dev)
+[![Medium](https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg)](https://medium.com/@costa.dev)
 
 </p>
   </td>
