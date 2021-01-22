@@ -26,11 +26,11 @@
   <tr>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=costadev00&show_icons=true&theme=onedark&locale=en&layout=compact%22 alt="malbolgee" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=costadev00&show_icons=true&theme=onedark&locale=en&layout=compact%22 alt="Matheus Costa" /></p>
   </td>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=malbolgee&show_icons=true&theme=onedark&locale=en" alt="malbolgee" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=costadev00&show_icons=true&theme=onedark&locale=en" alt="Matheus Costa" /></p>
   </td>
   <tr>
   <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
