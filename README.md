@@ -29,12 +29,11 @@
 <p align="center" >I'm interesting in competitive programming, data structures, mobile and web development.</p> <br>
  <p align="center">So if you are in too, contact me, i'll be happy to meet you!</p>
  <br><br>
- <p>
+ <p align="center">Everything here is Open Source!<br><br>
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/costadeveloper/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/Uf2kRiEk)
 [![Medium](https://img.shields.io/badge/medium-blog-black)](https://medium.com/@costa.dev)
 [![Google_Play](https://img.shields.io/badge/google%20play-app%20store-%2300CFFF)](https://play.google.com/store/apps/developer?id=Costa+Desenvolvimentos&hl=pt_BR)
-
 </p>
   </td>
   <tr>
