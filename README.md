@@ -26,8 +26,8 @@
   </td>
   <td width="50%">
 
-<br><p align="center">I'm interesting in competitive programming, data structures, mobile and web development.<br>
-  <p align="center">So if you are in too, contact me, i'll be happy to meet you!<br>
+<br>I'm interesting in competitive programming, data structures, mobile and web development.
+ So if you are in too, contact me, i'll be happy to meet you!<br>
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/costadeveloper/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/Uf2kRiEk)
 [![Medium](https://img.shields.io/badge/medium-blog-black)](https://medium.com/@costa.dev)
