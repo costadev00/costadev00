@@ -19,6 +19,7 @@
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/costadeveloper/)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/Uf2kRiEk)
 [![Medium](https://img.shields.io/badge/medium-blog-black)](https://medium.com/@costa.dev)
+[![Google_Play](https://img.shields.io/badge/google%20play-app%20store-%2300CFFF)](https://play.google.com/store/apps/developer?id=Costa+Desenvolvimentos&hl=pt_BR)
 
 </p>
   </td>
