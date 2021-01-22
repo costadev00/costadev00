@@ -25,7 +25,7 @@
 
   </td>
   <td width="50%">
-<br><p align="center">I'm interesting in competitive programming, data structures, mobile and web development./>
+<br><p align="center">I'm interesting in competitive programming, data structures, mobile and web development.</p>
 
 <p align="center">So if you are in too, contact me, i'll be happy to meet you!</p>
 <br><br>
