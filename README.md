@@ -1,5 +1,5 @@
 # Hi there! 👋
-### Welcome to my GitHub Profile, check out my repos!
+### Welcome to my GitHub Profile, take a tour and check out my repos!
 <table width="100%">
   <tr>
   <th>Tech stack currently using</th>
