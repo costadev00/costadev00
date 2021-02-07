@@ -38,7 +38,6 @@ So if you are in too, <b>contact me</b>, I'll be happy to meet you!<br><br>
   </td>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=costadev00)](https://github.com/anuraghazra/github-readme-stats)" alt="Matheus Costa" /></p>
   </td>
   <tr>
   <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
