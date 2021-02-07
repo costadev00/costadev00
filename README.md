@@ -37,6 +37,7 @@ So if you are in too, <b>contact me</b>, I'll be happy to meet you!<br><br>
   <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=costadev00&show_icons=true&theme=onedark&locale=en&layout=compact%22" alt="Matheus Costa" /></p>
   </td>
   <td width = "50%">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=costadev00)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   </td>
   <tr>
