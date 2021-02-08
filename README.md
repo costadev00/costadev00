@@ -37,7 +37,7 @@ So if you are in too, <b>contact me</b>, I'll be happy to meet you!<br><br>
   <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=costadev00&show_icons=true&theme=onedark&locale=en&layout=compact%22" alt="Matheus Costa" /></p>
   </td>
   <td width = "50%">
-    <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=costadev00&show_icons=true&theme=onedark&locale=en" alt="costadev00" /></p>
+    <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=costadev00&show_icons=true&theme=radical" alt="costadev00" /></p>
   <br>
   </td>
   <tr>
