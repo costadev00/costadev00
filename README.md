@@ -42,7 +42,7 @@
   <br>
   </td>
   <tr>
-  <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
+  <td colspan = 2><br><p align = "center"><b> I’m currently learning <b></p></td>
   <tr>
   <td colspan=2 width ="50%">
   <br>
