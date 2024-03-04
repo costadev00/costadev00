@@ -46,9 +46,9 @@
   <td colspan=2 width ="50%">
   <br>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="ts" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="next" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/>
   </p>
   </table>
