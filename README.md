@@ -21,7 +21,7 @@
 
   </td>
   <td width="50%">
-  <br><p align="center">I'm interesting in <b>competitive programming</b>, <b>data structures</b>, <b>algorithm optimization</b>, and <b>mobile and web development</b>.
+  <br><p align="center">I'm interesting in <b>artificial intelligence</b>, <b>competitive programming and data structures</b>, <b>algorithm optimization</b>, and <b>mobile and web development</b>.
  
    So if you are in too, <b href="https://www.linkedin.com/in/costadeveloper/" target="_blank">contact me</b>, I'll be happy to meet you!<br><br>
    
