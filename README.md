@@ -31,7 +31,7 @@
 [![Google_Play](https://img.shields.io/badge/google%20play-app%20store-%2300CFFF)](https://play.google.com/store/apps/developer?id=Costa+Desenvolvimentos&hl=pt_BR)
 </p>
   </td>
-  <tr>
+  <!-- <tr>
   <td width = "50%">
   <br>
   <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=costadev00&theme=radical" alt="costadev00" /></p>
@@ -42,11 +42,11 @@
   </td>
   <tr>
   <td colspan = 2><br><p align = "center"><b> I’m currently learning <b></p></td>
-  <tr>
+  <tr> -->
   <td colspan=2 width ="50%">
   <br>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="firebase" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="ts" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="next" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/>
