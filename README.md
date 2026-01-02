@@ -47,7 +47,7 @@
   <br>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="firebase" width="40" height="40"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="ts" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="ts" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="next" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/>
   </p>
