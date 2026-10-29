@@ -41,11 +41,44 @@ M.Sc. student at the **University of São Paulo (USP)**, working with **C4AI** o
 
 ## Core stack
 
-| Area | Tools |
-| --- | --- |
-| ML & data | Python, PyTorch, Transformers, Datasets, NumPy, pandas, scikit-learn |
-| LLM engineering | PEFT, TRL, Accelerate, vLLM |
-| Systems | FastAPI, Docker, Linux, Git, TypeScript, Node.js, C++ |
+<table>
+  <tr>
+    <td><b>ML</b></td>
+    <td>
+      <a href="https://docs.python.org/3/" title="Python documentation"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" /></a>
+      <a href="https://pytorch.org/docs/stable/" title="PyTorch documentation"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" /></a>
+      <a href="https://huggingface.co/docs/transformers/index" title="Transformers documentation"><img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Transformers" /></a>
+      <a href="https://scikit-learn.org/stable/" title="scikit-learn documentation"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>LLM tooling</b></td>
+    <td>
+      <a href="https://huggingface.co/docs/peft/index" title="PEFT · LoRA/QLoRA documentation"><img src="https://img.shields.io/badge/PEFT_%C2%B7_LoRA%2FQLoRA-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="PEFT · LoRA/QLoRA" /></a>
+      <a href="https://huggingface.co/docs/trl/index" title="TRL documentation"><img src="https://img.shields.io/badge/TRL-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="TRL" /></a>
+      <a href="https://huggingface.co/docs/datasets/index" title="Datasets documentation"><img src="https://img.shields.io/badge/Datasets-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Datasets" /></a>
+      <a href="https://docs.vllm.ai/en/latest/" title="vLLM documentation"><img src="https://img.shields.io/badge/vLLM-4B32C3?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMyAyTDQgMTRoN2wtMSA4IDEwLTEzaC04eiIvPjwvc3ZnPg%3D%3D" alt="vLLM" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; cloud</b></td>
+    <td>
+      <a href="https://www.postgresql.org/docs/" title="PostgreSQL documentation"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" /></a>
+      <a href="https://cloud.google.com/storage/docs" title="Cloud Storage documentation"><img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Cloud Storage" /></a>
+      <a href="https://cloud.google.com/pubsub/docs" title="Pub/Sub documentation"><img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Pub/Sub" /></a>
+      <a href="https://docs.docker.com/" title="Docker documentation"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Applications</b></td>
+    <td>
+      <a href="https://www.typescriptlang.org/docs/" title="TypeScript documentation"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" /></a>
+      <a href="https://nodejs.org/en/learn" title="Node.js documentation"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" /></a>
+      <a href="https://fastapi.tiangolo.com/" title="FastAPI documentation"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" /></a>
+      <a href="https://react.dev/learn" title="React documentation"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" /></a>
+    </td>
+  </tr>
+</table>
 
 ## Selected work
 
