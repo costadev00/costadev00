@@ -1,10 +1,10 @@
 # Matheus Costa Monteiro
 
-<h3>AI Research Engineer | LLMs, Data Engineering &amp; Industrial AI</h3>
+<h3>AI Research Engineer | Data Engineering, Post-Training & Reinforcement Learning for LLMs</h3>
 
 M.Sc. student at the **University of São Paulo (USP)**, working with **[Center for AI in Brazil](https://ciaam.usp.br/en/)** on Brazilian Portuguese language models. My work spans data engineering, post-training, and model evaluation in projects such as **[LLM Brazil](https://huggingface.co/g4me)**, alongside industrial AI and MLOps research in **[TRACTIAN](https://tractian.com/en)**.
 
-My industry experience includes data engineering and evaluation supporting LLM alingnment & Post Training and reinforcement learning.
+My industry experience includes data engineering and evaluation supporting LLM alignment, post-training, and reinforcement learning workflows for GPT-4 during my time at **[Scale AI](https://scale.com/)**.
 
 ## Current focus
 
@@ -66,6 +66,7 @@ My industry experience includes data engineering and evaluation supporting LLM a
     <td><b>Data &amp; cloud</b></td>
     <td>
       <a href="https://www.postgresql.org/docs/" title="PostgreSQL documentation"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" /></a>
+      <a href="https://www.mongodb.com/docs/" title="MongoDB documentation"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" /></a>
       <a href="https://cloud.google.com/storage/docs" title="Cloud Storage documentation"><img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Cloud Storage" /></a>
       <a href="https://cloud.google.com/pubsub/docs" title="Pub/Sub documentation"><img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Pub/Sub" /></a>
       <a href="https://docs.docker.com/" title="Docker documentation"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" /></a>
@@ -126,5 +127,15 @@ My background also includes backend development, graph algorithms, and competiti
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=costadev00&amp;theme=github_dark" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=costadev00&amp;theme=github_dark" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=costadev00&amp;theme=github_dark" alt="Most committed languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=costadev00&amp;theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=costadev00&amp;theme=github_dark&amp;utcOffset=-3" alt="Productive time" />
 </p>
 
