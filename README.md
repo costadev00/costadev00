@@ -2,7 +2,7 @@
 
 <h3>AI Research Engineer | LLMs, Data Engineering &amp; Industrial AI</h3>
 
-M.Sc. student at the **University of São Paulo (USP)**, working with **C4AI** on Brazilian Portuguese language models. My work spans data engineering, post-training, and model evaluation in projects such as **LLMBR**, alongside industrial AI and MLOps research in the **TRACTIAN–USP** collaboration.
+M.Sc. student at the **University of São Paulo (USP)**, working with **C4AI** on Brazilian Portuguese language models. My work spans data engineering, post-training, and model evaluation in projects such as **LLM Brazil**, alongside industrial AI and MLOps research in the **TRACTIAN–USP** collaboration.
 
 ## Current focus
 
